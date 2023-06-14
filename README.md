@@ -1,8 +1,6 @@
 # Anime-Recommendation
 Building anime recommendation system based only on user viewing history, Genre and other features.
 
-table
-
 # DATASET
 This dataset is taken from : https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=anime.csv
 myanimelist.net API for providing anime data and user ratings.
