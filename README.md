@@ -1,15 +1,15 @@
-# Anime-Recommendation\Anime-Recommendation
+# Anime-Recommendation
 Building anime recommendation system based only on user viewing history, Genre and other features.
 
 table
 
-DATASET
+# DATASET
 This dataset is taken from : https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=anime.csv
 myanimelist.net API for providing anime data and user ratings.
 
 This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.
 
-Content
+# Content
 Anime.csv
 anime_id - myanimelist.net's unique id identifying an anime.
 name - full name of anime.
